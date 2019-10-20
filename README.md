@@ -1,10 +1,10 @@
 # Simple-Weather-App-Python
-Very Simple Weather App Python (Py3)
+Very Simple Weather App Python (Py3) using Weather API and Tkinter library 
 
-#Run
+# Run
 Clone the project and run "python3 app.py" in the ditectory!
 
-#Sceenshots
+# Sceenshots
 
 <img src="https://i.imgur.com/mNAfqKr.png" width=400px>
 
